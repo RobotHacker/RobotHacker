@@ -8,6 +8,7 @@
       -  One pilot, multiple operator stations (cameras, manipulators,  etc.)
   -  Skeletonics like unpowered upper torso mecha(?) system
   -  Robot that can run around with the cats outside
+  -  VR robot control system
   -  Mechanical remote manipulator to allow safer operation of a lichtenburg wood burning sytem by the public
       -  Like a hot cell manipulator arm
       -  Link to [Tim Hunkin's My Nuke page](https://www.timhunkin.com/a160_My-nuke.htm)
